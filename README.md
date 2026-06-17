@@ -10,3 +10,6 @@ Measures and compares execution time,
 Performs performance analysis on datasets of various sizes,
 Displays search results with index position and comparison count,
 Developed using Python with a simple command-line interface.
+
+## Live Demo
+https://binary-search-vs-interpolation-search.streamlit.app/
