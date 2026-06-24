@@ -1,5 +1,5 @@
-mport time
-iimport random
+import time
+import random
 
 def interpolation_search(arr, target):
     low, high = 0, len(arr) - 1
